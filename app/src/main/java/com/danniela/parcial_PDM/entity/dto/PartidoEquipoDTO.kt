@@ -1,4 +1,4 @@
-package com.example.parcial1reloaded.entity.dto
+package com.danniela.parcial_PDM.entity.dto
 
 import android.os.Parcel
 import android.os.Parcelable

@@ -1,11 +1,11 @@
-package com.example.parcial1reloaded
+package com.danniela.parcial_PDM
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import com.example.parcial1reloaded.entity.Equipo
-import com.example.parcial1reloaded.entity.Partido
-import com.example.parcial1reloaded.repository.Repository
+import com.danniela.parcial_PDM.entity.Equipo
+import com.danniela.parcial_PDM.entity.Partido
+import com.danniela.parcial_PDM.repository.Repository
 import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

@@ -1,9 +1,9 @@
-package com.example.parcial1reloaded.activities
+package com.danniela.parcial_PDM.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.parcial1reloaded.R
-import com.example.parcial1reloaded.entity.dto.PartidoEquipoDTO
+import com.danniela.parcial_PDM.R
+import com.danniela.parcial_PDM.entity.dto.PartidoEquipoDTO
 import kotlinx.android.synthetic.main.activity_match_viewer.*
 
 class activityMatchViewer : AppCompatActivity() {

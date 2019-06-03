@@ -1,4 +1,4 @@
-package com.example.parcial1reloaded.adapters
+package com.danniela.parcial_PDM.adapters
 
 
 import android.content.Context
@@ -6,8 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.parcial1reloaded.R
-import com.example.parcial1reloaded.entity.dto.PartidoEquipoDTO
+import com.danniela.parcial_PDM.R
+import com.danniela.parcial_PDM.entity.dto.PartidoEquipoDTO
 import kotlinx.android.synthetic.main.cardviewpartido.view.*
 
 

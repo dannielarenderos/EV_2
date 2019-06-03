@@ -1,14 +1,12 @@
-package com.example.parcial1reloaded.activities
+package com.danniela.parcial_PDM.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProviders
-import com.example.parcial1reloaded.R
-import com.example.parcial1reloaded.ViewModelPartidoEquipo
-import com.example.parcial1reloaded.entity.Partido
+import com.danniela.parcial_PDM.R
+import com.danniela.parcial_PDM.ViewModelPartidoEquipo
+import com.danniela.parcial_PDM.entity.Partido
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_agregar_partido.*
 

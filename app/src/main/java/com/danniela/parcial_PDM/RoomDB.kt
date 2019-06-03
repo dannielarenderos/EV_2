@@ -1,14 +1,13 @@
-package com.example.parcial1reloaded
+package com.danniela.parcial_PDM
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.parcial1reloaded.dao.EquipoDao
-import com.example.parcial1reloaded.dao.PartidoDao
-import com.example.parcial1reloaded.entity.Equipo
-import com.example.parcial1reloaded.entity.Partido
-import com.example.parcial1reloaded.repository.Repository
+import com.danniela.parcial_PDM.dao.EquipoDao
+import com.danniela.parcial_PDM.dao.PartidoDao
+import com.danniela.parcial_PDM.entity.Equipo
+import com.danniela.parcial_PDM.entity.Partido
 
 @Database(entities = [Equipo::class, Partido::class], version = 3, exportSchema = false)
 public abstract class RoomDB : RoomDatabase() {

@@ -1,4 +1,4 @@
-package com.example.parcial1reloaded.activities
+package com.danniela.parcial_PDM.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -8,10 +8,10 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProviders
-import com.example.parcial1reloaded.R
-import com.example.parcial1reloaded.ViewModelPartidoEquipo
-import com.example.parcial1reloaded.entity.Equipo
-import com.example.parcial1reloaded.entity.Partido
+import com.danniela.parcial_PDM.R
+import com.danniela.parcial_PDM.ViewModelPartidoEquipo
+import com.danniela.parcial_PDM.entity.Equipo
+import com.danniela.parcial_PDM.entity.Partido
 import kotlinx.android.synthetic.main.activity_partido.*
 
 class PartidoActivity : AppCompatActivity() {

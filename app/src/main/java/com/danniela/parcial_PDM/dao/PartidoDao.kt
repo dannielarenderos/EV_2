@@ -1,11 +1,10 @@
-package com.example.parcial1reloaded.dao
+package com.danniela.parcial_PDM.dao
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
-import com.example.parcial1reloaded.entity.Partido
-import com.example.parcial1reloaded.entity.dto.PartidoEquipoDTO
+import com.danniela.parcial_PDM.entity.Partido
 
 @Dao
 interface PartidoDao {

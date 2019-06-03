@@ -1,4 +1,4 @@
-package com.example.parcial1reloaded.entity
+package com.danniela.parcial_PDM.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

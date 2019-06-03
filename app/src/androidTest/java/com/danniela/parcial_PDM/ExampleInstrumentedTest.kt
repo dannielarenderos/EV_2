@@ -1,4 +1,4 @@
-package com.example.parcial1reloaded
+package com.danniela.parcial_PDM
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

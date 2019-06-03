@@ -1,11 +1,11 @@
-package com.example.parcial1reloaded.repository
+package com.danniela.parcial_PDM.repository
 
 import androidx.annotation.WorkerThread
 import androidx.lifecycle.LiveData
-import com.example.parcial1reloaded.dao.EquipoDao
-import com.example.parcial1reloaded.dao.PartidoDao
-import com.example.parcial1reloaded.entity.Equipo
-import com.example.parcial1reloaded.entity.Partido
+import com.danniela.parcial_PDM.dao.EquipoDao
+import com.danniela.parcial_PDM.dao.PartidoDao
+import com.danniela.parcial_PDM.entity.Equipo
+import com.danniela.parcial_PDM.entity.Partido
 
 class Repository(private val equipoDao: EquipoDao, private val partidoDao: PartidoDao) {
 

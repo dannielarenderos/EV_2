@@ -1,19 +1,17 @@
-package com.example.parcial1reloaded.activities
+package com.danniela.parcial_PDM.activities
 
 import android.content.Intent
 import android.os.Bundle
-import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.LinearLayout
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.parcial1reloaded.R
-import com.example.parcial1reloaded.ViewModelPartidoEquipo
-import com.example.parcial1reloaded.adapters.PartidoAdapter
-import com.example.parcial1reloaded.entity.dto.PartidoEquipoDTO
+import com.danniela.parcial_PDM.R
+import com.danniela.parcial_PDM.ViewModelPartidoEquipo
+import com.danniela.parcial_PDM.adapters.PartidoAdapter
+import com.danniela.parcial_PDM.entity.dto.PartidoEquipoDTO
 
 import kotlinx.android.synthetic.main.activity_main.*
 

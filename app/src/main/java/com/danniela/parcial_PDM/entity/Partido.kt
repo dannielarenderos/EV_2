@@ -1,11 +1,10 @@
-package com.example.parcial1reloaded.entity
+package com.danniela.parcial_PDM.entity
 
 import android.os.Parcel
 import android.os.Parcelable
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.squareup.moshi.Json
 
 
 @Entity(tableName="partido")
